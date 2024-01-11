@@ -1,4 +1,5 @@
 # Git-training
+Autor: Marta Garcia Faure
 
 Este proyecto consiste en la elaboracion de diferentes ejercicios para consolidar los aspectos teoricos y practicos aprendidos durante la primera clase del curso de Machine Learning, que consistio en tres partes:
 
