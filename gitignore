@@ -1,9 +1,0 @@
-
-##########################
-# Common files
-
-# IntelliJ
-.idea/
-*.iml
-out/
-.idea_modules/
